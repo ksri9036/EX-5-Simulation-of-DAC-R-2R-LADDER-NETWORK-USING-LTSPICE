@@ -28,10 +28,10 @@
 <img width="1006" height="353" alt="image" src="https://github.com/user-attachments/assets/c920c726-d72d-4106-9048-0cd86b895f3d" />
 
 ---
-## OUT PUT WAVEFORM AND DISCUSSION 
+## OUTPUT WAVEFORM AND DISCUSSION 
+
 <img width="1895" height="426" alt="image" src="https://github.com/user-attachments/assets/bd70abe8-fe15-456e-9601-66bf53c83026" />
 
-<img width="1600" height="363" alt="image" src="https://github.com/user-attachments/assets/988b66d9-76c0-4f07-889f-84cbde750136" />
 
 ---
 ##RESULT:
