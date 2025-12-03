@@ -28,6 +28,9 @@
 <img width="1006" height="353" alt="image" src="https://github.com/user-attachments/assets/c920c726-d72d-4106-9048-0cd86b895f3d" />
 
 ---
+## CALCULATION 
+![WhatsApp Image 2025-12-03 at 14 04 57_acd7a401](https://github.com/user-attachments/assets/92b22731-9868-470f-8682-37201172db66)
+
 ## OUTPUT WAVEFORM AND DISCUSSION 
 
 <img width="1895" height="426" alt="image" src="https://github.com/user-attachments/assets/bd70abe8-fe15-456e-9601-66bf53c83026" />
